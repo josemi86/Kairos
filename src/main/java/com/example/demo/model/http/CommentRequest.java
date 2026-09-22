@@ -1,4 +1,4 @@
-package com.example.demo.model;
+package com.example.demo.model.http;
 
 import jakarta.validation.constraints.Max;
 import jakarta.validation.constraints.Min;

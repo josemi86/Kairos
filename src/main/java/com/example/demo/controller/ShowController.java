@@ -1,6 +1,6 @@
 package com.example.demo.controller;
 
-import com.example.demo.model.CommentRequest;
+import com.example.demo.model.http.CommentRequest;
 import com.example.demo.model.Show;
 import com.example.demo.model.ShowComment;
 import com.example.demo.repository.ShowCommentRepository;
