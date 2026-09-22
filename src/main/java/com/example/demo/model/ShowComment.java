@@ -15,7 +15,6 @@ public class ShowComment {
     private String comment;
     private Integer rating;
 
-    // Constructores
     public ShowComment() {}
 
     public ShowComment(Long showId, String comment, Integer rating) {
